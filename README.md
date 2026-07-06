@@ -1,6 +1,6 @@
 ## FASM Mini Programs
 
-This repository contains a collection of small programs written in FASM for a course by xorpd.
+This repository contains a collection of small programs written in FASM for a course by xorpd(https://github.com/xorpd).
 
 ## Requirements
 
